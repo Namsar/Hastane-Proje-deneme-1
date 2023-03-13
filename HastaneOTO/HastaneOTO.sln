@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HastaneOTO", "HastaneOTO.csproj", "{E52FB9DE-7ACE-4297-BDA7-A1CE2FDE914D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E52FB9DE-7ACE-4297-BDA7-A1CE2FDE914D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52FB9DE-7ACE-4297-BDA7-A1CE2FDE914D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52FB9DE-7ACE-4297-BDA7-A1CE2FDE914D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52FB9DE-7ACE-4297-BDA7-A1CE2FDE914D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D5F199B-E84F-4F6E-95B6-F0AF61D2AEC7}
+	EndGlobalSection
+EndGlobal

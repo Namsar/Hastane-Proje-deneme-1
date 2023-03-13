@@ -1,0 +1,11 @@
+C:\Users\90553\source\repos\HastaneOTO\bin\Debug\HastaneOTO.exe.config
+C:\Users\90553\source\repos\HastaneOTO\bin\Debug\HastaneOTO.exe
+C:\Users\90553\source\repos\HastaneOTO\bin\Debug\HastaneOTO.pdb
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.Properties.Resources.resources
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.exe
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.pdb
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.Form1.resources
+C:\Users\90553\source\repos\HastaneOTO\obj\Debug\HastaneOTO.İletişim.resources
