@@ -122,9 +122,10 @@ namespace HastaneOTO
             this.label7.ForeColor = System.Drawing.Color.Black;
             this.label7.Location = new System.Drawing.Point(93, 159);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(285, 16);
+            this.label7.Size = new System.Drawing.Size(255, 16);
             this.label7.TabIndex = 7;
-            this.label7.Text = "İstanbul/Kartal/Soğanlık/DefneliCaddesi";
+            this.label7.Text = "ZAAAAAAAAAAAAAAAAAAAAılılılıA";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label8
             // 
