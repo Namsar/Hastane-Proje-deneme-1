@@ -218,6 +218,8 @@ namespace HastaneOTO
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox pictureBox1;
+        
+        asasasasas
     }
 }
 
