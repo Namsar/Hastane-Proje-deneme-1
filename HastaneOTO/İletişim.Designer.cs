@@ -47,9 +47,10 @@ namespace HastaneOTO
             // pictureBox1
             // 
             this.pictureBox1.Image = global::HastaneOTO.Properties.Resources.saglik_bakanligi_logosu_41025;
-            this.pictureBox1.Location = new System.Drawing.Point(-10, 0);
+            this.pictureBox1.Location = new System.Drawing.Point(-13, 0);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(182, 130);
+            this.pictureBox1.Size = new System.Drawing.Size(243, 160);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -58,19 +59,22 @@ namespace HastaneOTO
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(153, 19);
+            this.label1.Location = new System.Drawing.Point(307, 30);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(296, 33);
+            this.label1.Size = new System.Drawing.Size(267, 42);
             this.label1.TabIndex = 1;
-            this.label1.Text = "NAF HASTANELERİ";
+            this.label1.Text = "hebele hübele";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(230, 78);
+            this.label2.Location = new System.Drawing.Point(307, 96);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(116, 33);
+            this.label2.Size = new System.Drawing.Size(139, 42);
             this.label2.TabIndex = 2;
             this.label2.Text = "İletişim";
             // 
@@ -78,9 +82,10 @@ namespace HastaneOTO
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(0, 159);
+            this.label3.Location = new System.Drawing.Point(0, 196);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(57, 16);
+            this.label3.Size = new System.Drawing.Size(70, 20);
             this.label3.TabIndex = 3;
             this.label3.Text = "Adres :";
             // 
@@ -88,9 +93,10 @@ namespace HastaneOTO
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(0, 217);
+            this.label4.Location = new System.Drawing.Point(0, 267);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 16);
+            this.label4.Size = new System.Drawing.Size(111, 20);
             this.label4.TabIndex = 4;
             this.label4.Text = "İletişim No :";
             // 
@@ -98,9 +104,10 @@ namespace HastaneOTO
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label5.Location = new System.Drawing.Point(0, 262);
+            this.label5.Location = new System.Drawing.Point(0, 322);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(41, 16);
+            this.label5.Size = new System.Drawing.Size(51, 20);
             this.label5.TabIndex = 5;
             this.label5.Text = "Fax :";
             // 
@@ -108,9 +115,10 @@ namespace HastaneOTO
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label6.Location = new System.Drawing.Point(0, 313);
+            this.label6.Location = new System.Drawing.Point(0, 385);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 16);
+            this.label6.Size = new System.Drawing.Size(79, 20);
             this.label6.TabIndex = 6;
             this.label6.Text = "Eposta :";
             // 
@@ -119,9 +127,10 @@ namespace HastaneOTO
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(93, 159);
+            this.label7.Location = new System.Drawing.Point(124, 196);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(285, 16);
+            this.label7.Size = new System.Drawing.Size(342, 20);
             this.label7.TabIndex = 7;
             this.label7.Text = "İstanbul/Kartal/Soğanlık/DefneliCaddesi";
             // 
@@ -129,9 +138,10 @@ namespace HastaneOTO
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label8.Location = new System.Drawing.Point(93, 217);
+            this.label8.Location = new System.Drawing.Point(124, 267);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(98, 16);
+            this.label8.Size = new System.Drawing.Size(123, 20);
             this.label8.TabIndex = 8;
             this.label8.Text = "(553)4903960";
             // 
@@ -139,9 +149,10 @@ namespace HastaneOTO
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label9.Location = new System.Drawing.Point(93, 262);
+            this.label9.Location = new System.Drawing.Point(124, 322);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(48, 16);
+            this.label9.Size = new System.Drawing.Size(59, 20);
             this.label9.TabIndex = 9;
             this.label9.Text = "42536";
             // 
@@ -149,9 +160,10 @@ namespace HastaneOTO
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label10.Location = new System.Drawing.Point(93, 313);
+            this.label10.Location = new System.Drawing.Point(124, 385);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(156, 16);
+            this.label10.Size = new System.Drawing.Size(188, 20);
             this.label10.TabIndex = 10;
             this.label10.Text = "anilfb606@gmail.com";
             // 
@@ -160,18 +172,19 @@ namespace HastaneOTO
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label11.ForeColor = System.Drawing.Color.Black;
-            this.label11.Location = new System.Drawing.Point(93, 185);
+            this.label11.Location = new System.Drawing.Point(124, 228);
+            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(344, 16);
+            this.label11.Size = new System.Drawing.Size(413, 20);
             this.label11.TabIndex = 11;
             this.label11.Text = "/ManolyaSokak/BaharkentSitesi/E-Blok/Daire:10";
             // 
             // İletişim
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightGreen;
-            this.ClientSize = new System.Drawing.Size(454, 378);
+            this.ClientSize = new System.Drawing.Size(605, 465);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.label9);
@@ -185,6 +198,7 @@ namespace HastaneOTO
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.HelpButton = true;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "İletişim";
             this.Text = "İletişim";
             this.Load += new System.EventHandler(this.İletişim_Load);
