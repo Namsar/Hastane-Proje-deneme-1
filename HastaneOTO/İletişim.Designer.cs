@@ -60,9 +60,9 @@ namespace HastaneOTO
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(227, 20);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 33);
+            this.label1.Size = new System.Drawing.Size(175, 33);
             this.label1.TabIndex = 1;
-            this.label1.Text = "XDXDX";
+            this.label1.Text = "BABABABA";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
