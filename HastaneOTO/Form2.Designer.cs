@@ -57,9 +57,9 @@ namespace HastaneOTO
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label2.Location = new System.Drawing.Point(64, 110);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(123, 25);
+            this.label2.Size = new System.Drawing.Size(193, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "İletişim No :";
+            this.label2.Text = "Güzel Kizlar arasin";
             // 
             // label3
             // 
@@ -77,9 +77,9 @@ namespace HastaneOTO
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label5.Location = new System.Drawing.Point(193, 111);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(137, 24);
+            this.label5.Size = new System.Drawing.Size(125, 24);
             this.label5.TabIndex = 4;
-            this.label5.Text = "(553) 490 39 60";
+            this.label5.Text = "553 497 01 61";
             // 
             // label6
             // 
