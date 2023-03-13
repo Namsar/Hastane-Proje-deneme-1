@@ -47,9 +47,9 @@ namespace HastaneOTO
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.Location = new System.Drawing.Point(106, 41);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(244, 37);
+            this.label1.Size = new System.Drawing.Size(169, 37);
             this.label1.TabIndex = 0;
-            this.label1.Text = "İletişim Bilgileri";
+            this.label1.Text = "zattiri zort";
             // 
             // label2
             // 
@@ -139,7 +139,7 @@ namespace HastaneOTO
             this.label10.TabIndex = 10;
             this.label10.Text = "(553) 490 39 60";
             // 
-            // Form1
+            // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -155,7 +155,7 @@ namespace HastaneOTO
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "Form2";
             this.Text = "İletişim";
             this.ResumeLayout(false);
             this.PerformLayout();
